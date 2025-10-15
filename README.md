@@ -1,8 +1,4 @@
 # 🧱 Data-Centric NLP 전체 요약
-
-> **NAVER Boostcamp AI Tech – Data-Centric NLP 강의 정리**  
-> 강의자: 박찬준 (Upstage AI)
-
 ---
 
 ## 🧩 Recap (요약 개념 정리)
@@ -16,7 +12,7 @@
 
 ---
 
-## 🪜 강의별 핵심 요약
+## 🪜 핵심 요약
 
 ### 1️⃣ Data-Centric AI란 무엇인가
 - 모델보다 데이터 중심의 접근
@@ -93,9 +89,3 @@
   - Augmentation / Filtering / Annotation 개선 중심  
 
 ---
-
-## 📚 Reference
-- Naver Connect Foundation (NAVER Boostcamp AI Tech)
-- Upstage AI – 박찬준 강의자료
-- Bommasani et al., 2023, *On the Opportunities and Risks of Foundation Models*
-- Liu et al., 2023, *Pre-train, Prompt, and Predict*
